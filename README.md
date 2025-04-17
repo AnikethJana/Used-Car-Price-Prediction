@@ -47,7 +47,7 @@ This project implements a machine learning model to predict car prices using a d
 2.  **Run the script:**
 
     ```bash
-    python your_script_name.py
+    python train_model.py
     ```
 
     The script will:
