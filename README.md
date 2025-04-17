@@ -29,8 +29,8 @@ This project implements a machine learning model to predict car prices using a d
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone https://github.com/AnikethJana/Used-Car-Price-Prediction.git
+    cd Used-Car-Price-Prediction
     ```
 
 2.  **Install the required dependencies:**
